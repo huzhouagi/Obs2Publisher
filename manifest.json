@@ -1,0 +1,9 @@
+{
+  "id": "obs2publisher",
+  "name": "Obs2Publisher",
+  "version": "1.0.0",
+  "minAppVersion": "1.7.2",
+  "description": "Preview and export the current Markdown note for WeChat, X Articles, and Xiaohongshu.",
+  "author": "胡诌",
+  "isDesktopOnly": true
+}
